@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://BGSA-Carleton-University.github.io/BGSA-website/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
