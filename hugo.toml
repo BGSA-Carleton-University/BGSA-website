@@ -1,4 +1,4 @@
-baseURL = 'https://BGSA-Carleton-University.github.io/BGSA-website/'
+baseURL = 'https://BGSA-Carleton-University.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 [caches]
