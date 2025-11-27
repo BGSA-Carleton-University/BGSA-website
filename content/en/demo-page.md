@@ -253,8 +253,7 @@ Autoconverted link https://github.com/nodeca/pica
 
 Images expand to fit the content width.
 
-![This is alt text, please remember to set it](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+c
 
 Coming soon: Advanced image handling, lazy loading, etc.
 
