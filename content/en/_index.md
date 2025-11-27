@@ -45,26 +45,31 @@ Supports multiple languages out of the box. Aims to comply with WCAG 2.1 standar
 {{< spacer 20 >}} -->
 
 {{< cards count=3 >}}
-{{< card >}}
-#### News & Announcements
-See here for announcements about events and other important news!
-{{< spacer 5 >}}
-{{< button link="/blog" text="Blog" >}}
-{{< /card >}}
-{{< card >}}
-#### Frequently Asked Qs
-Wondering how the BGSA works, have a question about your program, or where to get help? Look here first!
-{{< spacer 5 >}}
-{{< button link="/faq" text="FAQs" >}}
-{{< /card >}}
+
 {{< card >}}
 #### Your Association
 The BGSA serves all bio grads. Meet the exec team here.
 {{< spacer 5 >}}
 {{< button link="/demo-page" text="Demo Page" >}}
 {{< /card >}}
+
+{{< card >}}
+#### News & Announcements
+See here for announcements about events and other important news!
+{{< spacer 5 >}}
+{{< button link="/blog" text="Blog" >}}
+{{< /card >}}
+
+{{< card >}}
+#### Frequently Asked Qs
+<!-- Wondering how the BGSA works, have a question about your program, or where to get help? Look here first! -->
+Wondering how the BGSA works, or where to get help? Look here first!
+{{< spacer 5 >}}
+{{< button link="/faq" text="FAQs" >}}
+{{< /card >}}
+
 {{< /cards >}}
-{{< spacer 20 >}}
+<!-- {{< spacer 5 >}} -->
 
 <!-- ### Full feature list:
 

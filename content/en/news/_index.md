@@ -1,6 +1,9 @@
 ---
-title: "Blog"
 description: ""
 ---
 
-Welcome to our blog.
+## News & Announcements
+
+BGSA News Page.
+
+Under Construction.

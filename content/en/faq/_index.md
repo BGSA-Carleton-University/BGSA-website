@@ -1,6 +1,9 @@
 ---
-title: "FAQs"
 description: "Frequently Asked Questions"
 ---
 
-Here are some frequently asked questions.
+## Frequenty Asked Questions
+
+BGSA FAQ Page.
+
+Under Construction.

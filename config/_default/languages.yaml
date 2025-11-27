@@ -2,7 +2,7 @@ en:
   languageName: English
   weight: 1
   ### copyright (markdown can be used) ###
-  copyright: "Copyright &copy; {{< current_year >}} Company Name. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
+  copyright: "Copyright &copy; {{< current_year >}} Carleton University BGSA. All Rights Reserved. [Dot Org Theme](https://github.com/cncf/dot-org-hugo-theme) for Hugo by [CNCF](https://www.cncf.io)."
   title: "BGSA Carleton University"
   params:
     description: "Website for the Biology Graduate Student Association at Carleton University"
@@ -24,33 +24,37 @@ en:
   menu:
     main:
 
-    - identifier: "about"
-      name: "About"
-      url: "/example-page/"
-      weight: 1
-    - identifier: "child-1"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 1
-      post: "Nulla consequat massa quis enim. Donec pede justo."
-      parent: "about"
-    - identifier: "child-2"
-      name: "Example Child Page"
-      url: "/example-page/"
-      weight: 2
-      post: "Aenean commodo ligula get dolor. Aenean massa."
-      parent: "about"
+    # - identifier: "about"
+    #   name: "About"
+    #   url: "/example-page/"
+    #   weight: 1
+    # - identifier: "child-1"
+    #   name: "Example Child Page"
+    #   url: "/example-page/"
+    #   weight: 1
+    #   post: "Nulla consequat massa quis enim. Donec pede justo."
+    #   parent: "about"
+    # - identifier: "child-2"
+    #   name: "Example Child Page"
+    #   url: "/example-page/"
+    #   weight: 2
+    #   post: "Aenean commodo ligula get dolor. Aenean massa."
+    #   parent: "about"
+    # - identifier: "child-3"
+    #   name: "Example External page"
+    #   url: "https://cncf.io?ref=dot-org"
+    #   weight: 3
+    #   post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
+    #   parent: "about"
 
-    - identifier: "child-3"
-      name: "Example External page"
-      url: "https://cncf.io?ref=dot-org"
-      weight: 3
-      post: "Lorem ipsum dolor sit amet consectetuer adipiscing elit aenean commodo."
-      parent: "about"
+    - identifier: "bgsa"
+      name: "The BGSA"
+      url: "/bgsa/"
+      weight: 1
 
-    - identifier: "demo-page"
-      name: "Demo Page"
-      url: "/demo-page/"
+    - identifier: "news"
+      name: "News"
+      url: "/news/"
       weight: 2
 
     - identifier: "faq"
@@ -58,15 +62,10 @@ en:
       url: "/faq/"
       weight: 3
 
-    - identifier: "news"
-      name: "News"
-      url: "/news/"
-      weight: 4
-      
     - identifier: "external-bio"
       name: "Carleton Biology Department"
       url: "https://carleton.ca/biology/"
-      weight: 5
+      weight: 4
 
 # French later maybe?
 # es:
